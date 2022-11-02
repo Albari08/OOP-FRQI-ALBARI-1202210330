@@ -1,3 +1,4 @@
+package MODUL1;
 import java.util.Scanner;
 
 public class Server {
@@ -6,6 +7,9 @@ public class Server {
         // TODO Create Database
 
         // TODO Create Menu
+        public menu(){
+
+        }
 
         // TODO Insert Menu to Database
 
